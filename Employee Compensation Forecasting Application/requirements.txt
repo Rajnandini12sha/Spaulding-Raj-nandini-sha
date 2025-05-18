@@ -1,0 +1,4 @@
+pandas>=1.5.0
+pandasql>=0.7.3
+matplotlib>=3.5.0
+# For Tkinter, use your OS package manager (e.g., python3-tk on macOS/Linux)
