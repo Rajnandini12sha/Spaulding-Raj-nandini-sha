@@ -4,7 +4,7 @@ This is a simple desktop application built with Python and Tkinter for analyzing
 
 ## Features
 
-- **Upload CSV**: Load employee data from a CSV file.
+- **Upload CSV**: Load employee data from a CSV file(Use the Spaulding.csv file which is uploaded for running the application)
 - **Preview Data**: View the first few rows of the uploaded CSV.
 - **Filter by Status**: Filter employees by "Active" or "Inactive" status.
 - **Group Data**: Group employees by experience, role, or location.
